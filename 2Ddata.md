@@ -41,3 +41,21 @@
 |Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis|2020|ICASSP|TTS|[PDF](https://arxiv.org/pdf/2002.03785)|
 |Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi|2020|ICASSP|TTS|[PDF](https://arxiv.org/pdf/1910.10288)|
 |A Study of Non-autoregressive Model for Sequence Generation|2020|ACL|Sequence Generation|[PDF](https://www.aclweb.org/anthology/2020.acl-main.15.pdf)|
+
+## Time Series
+
+|Paper Title|Year|Published at|URLs|
+|-----------|----|------------|----|
+|Temporal Regularized Matrix Factorization for High-dimensional Time Series Prediction|2016|NIPS|[PDF](https://papers.nips.cc/paper/6160-temporal-regularized-matrix-factorization-for-high-dimensional-time-series-prediction)|
+|Deep learning with long short-term memory networks for financial market predictions|2018|European Journal of Operational Research|[PDF](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf)|
+|Forecasting Treatment Responses Over Time Using Recurrent Marginal Structural Networks|2018|NIPS|[PDF](http://papers.nips.cc/paper/7977-forecasting-treatment-responses-over-time-using-recurrent-marginal-structural-networks.pdf), [Code](https://github.com/sjblim/rmsn_nips_2018)|
+|Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks|2018|SIGIR|[PDF](https://arxiv.org/pdf/1703.07015.pdf), [Code](https://github.com/laiguokun/LSTNet)|
+|Diffusion Convolutional Recurrent Neural Network: Data-Driven Traffic Forecasting|2018|ICLR|[PDF](https://arxiv.org/pdf/1707.01926.pdf), [Code](https://github.com/liyaguang/DCRNN)|
+|Deep State Space Models for Time Series Forecasting|2018|NIPS|[PDF](https://papers.nips.cc/paper/8004-deep-state-space-models-for-time-series-forecasting.pdf)|
+|Attend and Diagnose: Clinical Time Series Analysis Using Attention Models|2018|AAAI|[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16325/16790)|
+|Deep learning for time series classification: a review|2019|Data Mining and Knowledge Discovery|[PDF](https://arxiv.org/abs/1809.04356)|
+|Deep Factors for Forecasting|2019|ICML|[PDF](https://arxiv.org/pdf/1905.12417.pdf)|
+|SOM-VAE: Interpretable Discrete Representation Learning on Time Series|2019|ICLR|[PDF](https://openreview.net/pdf?id=rygjcsR9Y7)|
+|Think Globally, Act Locally: A Deep Neural Network Approach to High-Dimensional Time Series Forecasting|2019|NIPS|[PDF](https://arxiv.org/pdf/1905.03806.pdf)|
+|Forecasting Big Time Series: Theory and Practice|2019|KDD|[PDF](https://dl.acm.org/doi/pdf/10.1145/3292500.3332289)|
+|Time Series Forecasting With Deep Learning: A Survey|2020|N.A.|[PDF](https://arxiv.org/pdf/2004.13408.pdf)|
